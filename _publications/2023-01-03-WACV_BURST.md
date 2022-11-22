@@ -5,7 +5,7 @@ permalink: /publication/WACV_BURST
 excerpt: ''
 date: 2023-01-03
 venue: 'WACV'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Athar_HODOR_High-Level_Object_Descriptors_for_Object_Re-Segmentation_in_Video_Learned_CVPR_2022_paper.pdf'
+paperurl: 'https://arxiv.org/pdf/2209.12118.pdf'
 ---
 Ali Athar, Jonathon Luiten, Paul Voigtlaender, Tarasha Khurana, Achal Dave, Bastian Leibe, Deva Ramanan
 
