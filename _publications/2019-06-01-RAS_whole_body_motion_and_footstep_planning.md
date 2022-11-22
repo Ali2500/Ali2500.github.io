@@ -2,7 +2,7 @@
 title: "Whole-body motion and footstep planning for humanoid robots with multi-heuristic search"
 collection: publications
 permalink: /publication/RAS2019_whole_body_motion_and_footstep_planning
-excerpt: ''
+excerpt: 'Rizwan Asif, Ali Athar, Faisal Mehmood, Fahad Islam, Yasar Ayaz'
 date: 2019-06-01
 venue: 'Robotics and Autonomous Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0921889018306547'

@@ -2,7 +2,7 @@
 title: "BURST: A Benchmark for Unifying Object Recognition, Segmentation and Tracking in Video"
 collection: publications
 permalink: /publication/WACV_BURST
-excerpt: ''
+excerpt: 'Ali Athar, Jonathon Luiten, Paul Voigtlaender, Tarasha Khurana, Achal Dave, Bastian Leibe, Deva Ramanan'
 date: 2023-01-03
 venue: 'WACV'
 paperurl: 'https://arxiv.org/pdf/2209.12118.pdf'

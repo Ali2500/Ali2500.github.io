@@ -2,7 +2,7 @@
 title: "A Single-Stage, Bottom-up Approach for Occluded VIS using Spatio-temporal Embeddings"
 collection: publications
 permalink: /publication/ICCV2021_OVIS
-excerpt: ''
+excerpt: 'Ali Athar\*, Sabarinath Mahadevan\*, Aljosa Osep, Laura Leal-Taixe, Bastian Leibe'
 date: 2021-10-15
 venue: 'ICCV Workshop'
 paperurl: 'https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Athar_A_Single-Stage_Bottom-Up_Approach_for_Occluded_VIS_Using_Spatio-Temporal_Embeddings_ICCVW_2021_paper.pdf'

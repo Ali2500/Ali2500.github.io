@@ -2,7 +2,7 @@
 title: "Whole-body motion planning for humanoid robots with heuristic search"
 collection: publications
 permalink: /publication/IROS2016_whole_body_motion_planning
-excerpt: ''
+excerpt: 'Ali Athar, Abdul Moeed Zafar, Rizwan Asif, Armaghan Ahmad Khan, Fahad Islam, Yasar Ayaz, Osman Hasan'
 date: 2016-10-09
 venue: 'IROS'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759694'

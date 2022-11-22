@@ -2,7 +2,7 @@
 title: "HODOR: High-level Object Descriptors for Object Re-segmentation in Video Learned from Static Images"
 collection: publications
 permalink: /publication/CVPR_HODOR
-excerpt: ''
+excerpt: 'Ali Athar, Jonathon Luiten, Alexander Hermans, Deva Ramanan, Bastian Leibe'
 date: 2022-06-15
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Athar_HODOR_High-Level_Object_Descriptors_for_Object_Re-Segmentation_in_Video_Learned_CVPR_2022_paper.pdf'

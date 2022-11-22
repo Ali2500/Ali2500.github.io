@@ -2,7 +2,7 @@
 title: "Differentiable Soft-Masked Attention"
 collection: publications
 permalink: /publication/CVPRW_diff_soft_masked_attn
-excerpt: ''
+excerpt: 'Ali Athar, Jonathon Luiten, Alexander Hermans, Deva Ramanan, Bastian Leibe'
 date: 2022-06-15
 venue: 'CVPR Workshop'
 paperurl: 'https://arxiv.org/pdf/2206.00182.pdf'
