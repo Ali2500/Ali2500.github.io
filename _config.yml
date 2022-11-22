@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Athar, M.Sc."
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Ali Athar"
 description              : &description "Compter Vision Researcher"
