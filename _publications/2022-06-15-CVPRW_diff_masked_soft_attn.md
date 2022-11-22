@@ -1,10 +1,10 @@
 ---
-title: "HODOR: High-level Object Descriptors for Object Re-segmentation in Video Learned from Static Images"
+title: "Differentiable Soft-Masked Attention"
 collection: publications
 permalink: /publication/CVPRW_diff_soft_masked_attn
 excerpt: ''
 date: 2022-06-15
-venue: 'CVPR WOrkshop'
+venue: 'CVPR Workshop'
 paperurl: 'https://arxiv.org/pdf/2206.00182.pdf'
 ---
 Ali Athar, Jonathon Luiten, Alexander Hermans, Deva Ramanan, Bastian Leibe

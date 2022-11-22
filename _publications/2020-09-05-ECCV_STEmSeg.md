@@ -2,7 +2,7 @@
 title: "STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos"
 collection: publications
 permalink: /publication/ECCV2020_STEmSeg
-excerpt: ''
+excerpt: 'Ali Athar*, Sabarinath Mahadevan*, Aljosa Osep, Laura Leal-Taixe, Bastian Leibe'
 date: 2020-09-05
 venue: 'ECCV'
 paperurl: 'https://arxiv.org/pdf/2003.08429.pdf'
