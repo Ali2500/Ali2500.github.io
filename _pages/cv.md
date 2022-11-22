@@ -15,7 +15,7 @@ Education
 * M.Sc. Communications Engineering, Technical University of Munich (Germany), 2016 - 2019
 * Ph.D in Computer Science (Computer Vision), RWTH Aachen University (Aachen, Germany), 2019 - present
 
-Work experience
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,15 +26,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
