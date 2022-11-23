@@ -33,6 +33,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Scholarships and Awards
+======
+* Outstanding Reviewer Award at CVPR 2022 (New Orleans, USA)
+* Completed Master's degree with High Distinction (1.2/5.0 on German scale)
+* Awarded Chancellor's Silver Medal for achieving second-highest GPA in Bachelor's graduating class (3.93/4.00)
+
+Reviewer Duties
+======
+* Conferences: ICRA 2019, BMVC 2020, CVPR 2021, ICCV 2021, CVPR 2022, ECCV CVPR2022
+* Journals: Transactions on Image Processing (TIP), Computer Vision and Image Understanding (CVIU)
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
