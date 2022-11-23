@@ -17,15 +17,15 @@ Education
 
 Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2019 - Present: Scientific Researcher
+  * RWTH Aachen University
+  * Department: Computer Vision Group
+  * Supervisor: [Prof. Dr. Bastian Leibe](https://www.vision.rwth-aachen.de/person/1/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2017 - Mar 2019: Software Engineer (Part-time)
+  * NavVis GmbH. (Munich, Germany)
+  * Area: 3D Robotic Mapping and Perception
+  * Languages and Tools: C++, Python, Robot Operating System (ROS)
 
 Publications
 ======
@@ -44,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
